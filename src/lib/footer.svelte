@@ -1,7 +1,7 @@
 <footer>
     
 </footer>
-<footer class="footer p-10 bg-neutral text-neutral-content">
+<footer class="footer p-6 bg-neutral text-neutral-content">
 
     <div>
       <span class="footer-title">Company</span> 
