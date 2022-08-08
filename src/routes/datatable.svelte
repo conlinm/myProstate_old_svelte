@@ -14,6 +14,7 @@ We could have a form on the side that is populated by whatever row is highlighte
 
     const settings = { columnFilter: true }
     let rows
+    let row = {}
     let lab = {}
     let id = ''
     let value = ''
